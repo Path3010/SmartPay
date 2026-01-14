@@ -1,0 +1,23 @@
+{
+  "name": "smartpay-frontend",
+  "version": "1.0.0",
+  "description": "SmartPay decentralized freelance marketplace frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "next": "^14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "uuid": "^9.0.1"
+  },
+  "keywords": ["smartpay", "web3", "freelance", "nextjs"],
+  "author": "SmartPay Development Team",
+  "license": "ISC"
+}
